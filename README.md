@@ -1,0 +1,2 @@
+Juego pong para Android usando por referencia lo indicado en el libro:
+[Learning Java by Building Android Games - Third Edition](https://www.packtpub.com/product/learning-java-by-building-android-games-third-edition/9781800565869)
